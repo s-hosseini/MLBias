@@ -10,6 +10,6 @@ WHY: AI and machine learning-based tools, products, and methodologies are quickl
 
 WHAT: This collection currently includes a [syllabus for beginners, executable Jupyter Notebooks, an annotated list of resources](https://github.com/MLBiasgov/MLBias_papers), a [list of books used to build these resources](https://github.com/MLBiasgov/MLBias/blob/main/textbook%20reading%20list) and [other prototpye components including a Question and Answer flow used to guide users toward the appropriate resource list](https://github.com/MLBiasgov/MLBias/blob/main/MVP-Combating%20Bias%20in%20Government%20Data%20and%20Algorithms.pdf). 
 
-A full release is planned later in 2021.
+A full public release is forthcoming in 2021.
 
 
