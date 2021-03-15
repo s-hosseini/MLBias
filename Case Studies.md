@@ -1,4 +1,4 @@
-# Case Studies
+# Case Study Overview
 
 Deep dive into Case Studies: How do dataset bias, data quality issues, and/or algorithmic bias affect government ML development processes? How does the output of biased models practically affect government?  
 
@@ -7,10 +7,11 @@ blah lbah lbhal blhlabhlhab
 
 blah lbah lbhal blhlabhlhab
 
-## Milestones
-- blah lbah lbhal blhlabhlhab
-- blah lbah lbhal blhlabhlhab
-- August 2019: “[blah lbah lbhal blhlabhlhab](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” published
+## Cases
+- Data at Census: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
+- Bias in Survey Analysis: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
+- Bias at Department of Labor: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
+- Published case: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
 
 ## Recommendations
 blah lbah lbhal blhlabhlhab
