@@ -1,6 +1,6 @@
-# Technology Budgeting Handbook
+# Case Studies
 
-Teaching state leadership how to budget for and provide oversight of Agile software procurement, to reduce wasteful spending of federal technology grants. Waterfall development remains standard in states, in part because of their budgeting and oversight processes. By intervening early in the process, we can prevent failures from happening.
+Deep dive into Case Studies: How do dataset bias, data quality issues, and/or algorithmic bias affect government ML development processes? How does the output of biased models practically affect government?  
 
 ## Overview
 We are providing training to highly-leveraged state budgeting and procurement officials, to identify which groups are most receptive to our message — while also improving our own messaging — to reduce wasteful federal spending on failed custom software. The potential impact is significant, because any one person who we persuade is in a position to prevent millions of dollars in spending on bad software. At the conclusion of this work, we intend to have a firm grasp on the process of how states decide to spend millions of dollars on custom software, to have identified which departments or positions are in the best position to improve that process, and to know what message resonates with them.
