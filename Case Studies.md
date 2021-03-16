@@ -8,7 +8,7 @@ blah lbah lbhal blhlabhlhab
 blah lbah lbhal blhlabhlhab
 
 ## Cases
-- Data at Census: “[Bias at NIH](https://github.com/s-hosseini/CaseStudies/blob/master/handbook.md)” 
+- Data at Census: “[Bias in Census Press Release Data](https://github.com/s-hosseini/MLBias/blob/main/CaseStudyCensusWeb.md)” 
 - Bias in Survey Analysis: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
 - Bias at Department of Labor: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
 - Published case: “[Bias at NIH](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” 
